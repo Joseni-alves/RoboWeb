@@ -1,4 +1,4 @@
-const apiUrl = 'https://api.example.com';
+const apiUrl = 'https://roboweb-tt7k.onrender.com';
 
 const leftButton = document.getElementById('left-button');
 const rightButton = document.getElementById('right-button');
